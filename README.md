@@ -1,33 +1,34 @@
-# Instructions
-The FizzBuzz challenge is one of the most common programming interview tasks in the world. The challenge is to write a program that will output a list of numbers, replacing every 3rd number with Fizz, and every 5th number with Buzz.
+# 🧩 **Proyecto: FizzBuzz y Bucles en JavaScript**
 
-**Today, you will build and iterate on this challenge, and you will teach yourselves how to use for loops along the way.**
+## 📘 **Resumen de la Actividad**
 
-For each task, copy your code from the previous task, and extend it during the next task.
+Este proyecto fue una actividad colaborativa donde el equipo desarrolló paso a paso el clásico desafío **FizzBuzz** utilizando **JavaScript** y estructuras de control como los **bucles `for`**.  
 
+A través de distintas tareas, aprendimos a:  
+1. Generar una secuencia numérica del 1 al 105.  
+2. Reemplazar múltiplos de 3 por **"Fizz"**.  
+3. Reemplazar múltiplos de 5 por **"Buzz"**, y múltiplos de ambos por **"FizzBuzz"**.  
+4. Extender la lógica para incluir múltiplos de 7 con la palabra **"Woof"**, respetando el orden lógico Fizz → Buzz → Woof.  
+5. Realizar desafíos extra, como solicitar entrada del usuario o almacenar los resultados en un arreglo.  
 
-## Tasks
+Durante el desarrollo se aplicaron conceptos fundamentales de **programación estructurada**, **condicionales**, y **buenas prácticas con bucles**.
 
-1. Can you create a JavaScript program that will output every number from 1 to 105?
-    * You will fail this task if your program stops short at 104 numbers. **Computers are very literal!**
+---
 
-2. Copy the code from task1.js into task2.js. Can you now replace every 3rd number with Fizz?
-    * Ensure your code outputs only Fizz for these numbers!
+## 🤝 **Trabajo Colaborativo**
 
-3. Can you also replace every 5th number with Buzz, and every number that satisfies both conditions with FizzBuzz?
-    * Ensure this outputs FizzBuzz on one line, and not two separate lines, or in the wrong order.
+El proyecto se desarrolló en equipo con **los integrantes del equipo**, utilizando **Git y GitHub** para la gestión de versiones.  
+Cada miembro trabajó en su propia rama y se realizaron fusiones coordinadas en la rama principal.  
 
-4. Can you continue the pattern by also replacing every 7th number with Woof, alongside the other conditions?
-    * The logical order to the output in the event that a number satisfies all conditions is: Fizz, then Buzz, then Woof.
+La colaboración requirió una comunicación fluida, revisiones de código y resolución conjunta de conflictos, lo que permitió mejorar tanto la organización del equipo como la comprensión del flujo de trabajo en proyectos compartidos.
 
+---
 
-## Extra Tasks
+## 💭 **Reflexión Personal**
 
-If you have completed the above tasks, try the following extra tasks for a bonus challenge!
+Esta experiencia fue muy enriquecedora, ya que combinó **aprendizaje técnico y habilidades de trabajo en equipo**.  
+El ejercicio de FizzBuzz, aunque sencillo, fue una excelente oportunidad para fortalecer la lógica de programación y comprender la importancia de la **precisión en las instrucciones** que damos a un programa.
 
-5. Can you prompt the user to input the number of lines that will be generated, or to generate a specific line?
+Además, el uso de **ramas en Git** nos permitió experimentar un entorno de desarrollo colaborativo real, donde la comunicación, la coordinación y el respeto por el código de los demás fueron clave.  
 
-6. Can you assign the output numbers of a generated sequence to elements in a list or array?
-
-7. How might you attempt to replace a sequence of odd prime numbers with a new word in a list or array?
-    * An example list has been provided in the buzzWords array. Add your own words for higher prime numbers!
+En conclusión, este proyecto nos ayudó a mejorar tanto nuestra lógica en JavaScript como nuestras habilidades de colaboración, dejando en claro que **la programación es tanto un trabajo técnico como un ejercicio de cooperación y comunicación.**
